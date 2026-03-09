@@ -53,7 +53,7 @@ Here are some of my highlighted projects:
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/master/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sam27086/snake/refs/heads/main/snake.svg)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=sam27086&theme=radical&no-frame=true&margin-w=5)](https://github.com/sam27086)
