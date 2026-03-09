@@ -45,8 +45,8 @@ Here are some of my highlighted projects:
 
 ## 📊 GitHub Stats
 ![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam27086&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam27086&layout=compact&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam27086&layout=compact&theme=tokyonight)
 ---
 
 ## 👀 Visitors Count
